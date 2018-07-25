@@ -35,6 +35,8 @@ def how_many_steps?
   puts "/6/"
 end
 
+  # Write a solution that uses the same code as how_many_steps?, but breaks the
+  # loop if steps is equal to 6
 def break_dance
-
+  puts "Left"
 end
