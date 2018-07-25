@@ -15,6 +15,7 @@ end
 
 
 def a_few_more_steps
+  puts "Right foot steps right and back"
   puts "Stop"
   puts "Left foot back"
   puts "Right foot back"
