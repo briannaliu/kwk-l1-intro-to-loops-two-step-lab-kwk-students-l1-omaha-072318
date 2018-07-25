@@ -1,7 +1,15 @@
 def first_steps
+  loop do
+    puts "Right foot back"
+    puts "Left foot back"
+    puts "Right foot back"
+    puts "Stop"
+    sleep
+  end
+end
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
-end
+
 
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
