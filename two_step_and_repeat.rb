@@ -27,7 +27,6 @@ end
 
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 def how_many_steps?
-  puts "Left"
 end
 
 def break_dance
