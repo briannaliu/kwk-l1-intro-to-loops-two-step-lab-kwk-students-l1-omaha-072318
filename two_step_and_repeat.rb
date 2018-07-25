@@ -39,4 +39,5 @@ end
   # loop if steps is equal to 6
 def break_dance
   puts "Left"
+  puts "Right"
 end
