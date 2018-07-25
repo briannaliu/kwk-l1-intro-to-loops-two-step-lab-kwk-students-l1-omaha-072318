@@ -1,13 +1,13 @@
 def first_steps
   loop do
     puts "Right foot back"
-    sleep (0.5)
+    sleep
     puts "Left foot back"
-    ep (0.5)
+    sleep
     puts "Right foot back"
-    ep (0.5)
+    sleep
     puts "Stop"
-    sleep (1)
+    sleep
   end
 end
   # Write a loop that outputs "Right foot back", "Left foot back",
