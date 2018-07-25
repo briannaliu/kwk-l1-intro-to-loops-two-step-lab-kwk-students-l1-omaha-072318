@@ -40,4 +40,9 @@ end
 def break_dance
   puts "Left"
   puts "Right"
+    puts "/1\nRight\n2\nLeft/"
+  puts "/3/"
+  puts "/4/"
+  puts "/5/"
+  puts "/6/"
 end
