@@ -29,6 +29,7 @@ def how_many_steps?
   puts "Left"
   puts "Right"
   puts "/1\nRight\n2\nLeft/"
+  puts "/3/"
 end
 
 def break_dance
