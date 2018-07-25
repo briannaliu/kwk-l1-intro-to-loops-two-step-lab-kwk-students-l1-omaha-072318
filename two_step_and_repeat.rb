@@ -22,7 +22,6 @@ def a_few_more_steps
   puts "Left foot back"
   puts "Right foot back"
 end
-end
 
 
   # Write a loop that fulfills all criteria from Part 3 of the README.md
